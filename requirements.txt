@@ -1,0 +1,3 @@
+pyfiglet
+streamlit
+ascii_magic
