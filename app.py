@@ -11,7 +11,7 @@ st.set_page_config(
     }
 )
 
-st.write("<h2 style='color:#DA4C5C;font-size:34px;'>Your Portal to ASCII Art Creation</h2>",unsafe_allow_html=True)
+st.write("<h2 style='color:#DA4C5C;'>Your Portal to ASCII Art Creation</h2>",unsafe_allow_html=True)
 
 tab1,tab2=st.tabs(["Text To ASCII","Image To ASCII"])
 
